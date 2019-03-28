@@ -1,4 +1,4 @@
-package sysmaneger.br.com.criptografia;
+package sysmanager.br.com.criptografia;
 
 import java.util.Scanner;
 

@@ -4,7 +4,7 @@ import static org.junit.Assert.*;
 
 import org.junit.Test;
 
-import sysmaneger.br.com.criptografia.Criptografia;
+import sysmanager.br.com.criptografia.Criptografia;
 
 public class CriptografiaTest {
 
